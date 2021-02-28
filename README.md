@@ -1,4 +1,12 @@
-# [Notable++]
+# Notable++
+The same notable powered by cloud now. Features **I'd like to have**:
+
+ - [ ] Sign in with Google and authorise google drive.
+ - [ ] Cloud back up of the notes
+ - [ ] Android app to read the notes
+ - [ ] Android app can write to the notes
+
+## Source
 
 This is based on an older fork of former open source [notable](https://github.com/notable/notable) app. The fork was done on **[v1.3.0](https://github.com/notable/notable/tree/v1.3.0)** which as the author quotes
 
